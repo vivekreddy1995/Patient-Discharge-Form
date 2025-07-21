@@ -1,0 +1,5 @@
+streamlit
+reportlab
+datetime
+io
+PIL
