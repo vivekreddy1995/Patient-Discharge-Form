@@ -1,8 +1,5 @@
 streamlit
-reportlab.lib.pagesizes
-reportlab.platypus
-reportlab.lib
-reportlab.lib.styles
+reportlab
 datetime
 io
 PIL
